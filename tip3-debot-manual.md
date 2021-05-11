@@ -1,6 +1,6 @@
 # Broxus TIP3 tokens DeBot. Руководство пользователя
 
-**Tip3-DeBot** — это [ДеБот](/glossary.md#%D0%B4%D0%B5%D0%B1%D0%BE%D1%82), который функционирует в блокчейне Free TON и предназначен для совершения операций с [токенами](/glossary.md#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD) Broxus Tip3 в интерфейсе [Surf](/glossary.md#surf).
+**Tip3-DeBot** — это [ДеБот](/glossary.md#%D0%B4%D0%B5%D0%B1%D0%BE%D1%82), который функционирует в блокчейне Free TON и предназначен для проведения операций с [токенами](/glossary.md#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD) Broxus Tip3 в интерфейсе [Surf](/glossary.md#surf).
 
 ## Как добавить ДеБота в Surf?
 
