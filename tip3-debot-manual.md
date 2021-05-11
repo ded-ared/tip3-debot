@@ -1,6 +1,6 @@
 # Broxus TIP3 tokens DeBot. Руководство пользователя
 
-**Tip3-DeBot** — это [ДеБот](/ded-ared/tip3-debot/blob/main/glossary.md#%D0%B4%D0%B5%D0%B1%D0%BE%D1%82), который функционирует в блокчейне Free TON и предназначен для совершения операций с [токенами](/ded-ared/tip3-debot/blob/main/glossary.md#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD) Broxus Tip3 в интерфейсе [Surf](/ded-ared/tip3-debot/blob/main/glossary.md#surf).
+**Tip3-DeBot** — это [ДеБот](/glossary.md#%D0%B4%D0%B5%D0%B1%D0%BE%D1%82), который функционирует в блокчейне Free TON и предназначен для совершения операций с [токенами](/glossary.md#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD) Broxus Tip3 в интерфейсе [Surf](/glossary.md#surf).
 
 ## Как добавить ДеБота Tip3 в веб-версии Surf?
 
@@ -30,10 +30,10 @@
 3. Чтобы выбрать тип токенов, нажмите `Select TIP3 token`.
 
 4. Выберите нужный токен из доступных вариантов:  
-    - [USDT](/ded-ared/tip3-debot/blob/main/glossary.md#usdt)
-    - [USDC](/ded-ared/tip3-debot/blob/main/glossary.md#usdc-usd-coin)
-    - [DAI](/ded-ared/tip3-debot/blob/main/glossary.md#dai-dai-stablecoin)
-    - [WBTC](/ded-ared/tip3-debot/blob/main/glossary.md#wbtc-wrapped-bitcoin)
-    - [WETH](/ded-ared/tip3-debot/blob/main/glossary.md#weth-wrapped-ether)
+    - [USDT](/glossary.md#usdt)
+    - [USDC](/glossary.md#usdc-usd-coin)
+    - [DAI](/glossary.md#dai-dai-stablecoin)
+    - [WBTC](/glossary.md#wbtc-wrapped-bitcoin)
+    - [WETH](/glossary.md#weth-wrapped-ether)
     
     ⚠ Чтобы вернуться в главное меню ДеБота, нажмите **Back**.
